@@ -1,3 +1,3 @@
 This project demonstrates a payment integration with Stripe using an asynchronous architecture powered by Kafka.
 Instead of handling payment logic synchronously, the system publishes events to Kafka and processes them in the background, improving scalability, reliability, and decoupling.
-<img width="720" height="819" alt="Screenshot from 2025-12-27 12-21-49" src="https://github.com/user-attachments/assets/f3b9b0bc-c7ef-4a33-8b93-270ebab23b2f" />
+<img width="514" height="772" alt="Screenshot from 2026-03-27 23-24-03" src="https://github.com/user-attachments/assets/3cb2ea0d-d812-4dad-a2b2-162ba5ac3f35" />
